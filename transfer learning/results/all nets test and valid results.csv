@@ -1,0 +1,15 @@
+net,test accuracy,best valid accuracy,Training time (minutes)
+alexnet feature extract,84.843,88.12,37
+alexnet fine tuning,96.86,96.55,50
+alexnet dora,87.5,88.3,24
+alexnet lora,87.9,88.2,24
+VGG16 feature extract,84.75,84.92,230
+VGG16 dora ,84.6,84.2,351
+VGG16 lora,83.3,83.4,275
+Densenet feature extract,88.56,89.07,196
+Densenet dora,92.53,91.8,142
+Densenet lora ,91.38,91.2,140
+resnet feature extract,86.9,87.5,58
+resnet fine tuning,98,97.75,135
+resnet dora ,89.8,89.8,51
+resnet lora,89.44,89.8,52
