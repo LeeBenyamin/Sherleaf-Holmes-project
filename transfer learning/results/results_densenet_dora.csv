@@ -1,15 +1,31 @@
-densenet_dora,validation data,0,"tensor(0.7338, device='mps:0')"
-densenet_dora,validation data,1,"tensor(0.8312, device='mps:0')"
-densenet_dora,validation data,2,"tensor(0.8636, device='mps:0')"
-densenet_dora,validation data,3,"tensor(0.8731, device='mps:0')"
-densenet_dora,validation data,4,"tensor(0.8809, device='mps:0')"
-densenet_dora,validation data,5,"tensor(0.8879, device='mps:0')"
-densenet_dora,validation data,6,"tensor(0.8950, device='mps:0')"
-densenet_dora,validation data,7,"tensor(0.9056, device='mps:0')"
-densenet_dora,validation data,8,"tensor(0.8993, device='mps:0')"
-densenet_dora,validation data,9,"tensor(0.9100, device='mps:0')"
-densenet_dora,validation data,10,"tensor(0.9086, device='mps:0')"
-densenet_dora,validation data,11,"tensor(0.9106, device='mps:0')"
-densenet_dora,validation data,12,"tensor(0.9153, device='mps:0')"
-densenet_dora,validation data,13,"tensor(0.9141, device='mps:0')"
-densenet_dora,validation data,14,"tensor(0.9182, device='mps:0')"
+epoch,phase,loss,accuracy
+0,train,2.2165,0.4863
+0,val,0.436,0.9056
+1,val,1.3908,0.7338
+1,train,0.4478,0.8983
+2,train,1.1273,0.7816
+2,val,0.4264,0.8993
+3,val,0.9168,0.8312
+3,train,0.4217,0.9011
+4,train,0.8359,0.8378
+4,val,0.3991,0.91
+5,val,0.7177,0.8636
+5,train,0.4062,0.9021
+6,train,0.6932,0.861
+6,val,0.3857,0.9086
+7,val,0.6196,0.8731
+7,train,0.3874,0.9061
+8,val,0.3711,0.9106
+8,train,0.6146,0.8707
+9,val,0.5663,0.8809
+9,train,0.3716,0.909
+10,val,0.3524,0.9153
+10,train,0.5527,0.8796
+11,train,0.3664,0.9091
+11,val,0.5214,0.8879
+12,val,0.3465,0.9141
+12,train,0.5036,0.8891
+13,train,0.3526,0.9111
+13,val,0.4739,0.895
+14,train,0.4752,0.8916
+14,val,0.3372,0.9182

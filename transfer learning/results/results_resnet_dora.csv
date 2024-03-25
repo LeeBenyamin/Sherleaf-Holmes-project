@@ -1,15 +1,31 @@
-resnet_dora,validation data,0,"tensor(0.6896, device='mps:0')"
-resnet_dora,validation data,1,"tensor(0.7939, device='mps:0')"
-resnet_dora,validation data,2,"tensor(0.8306, device='mps:0')"
-resnet_dora,validation data,3,"tensor(0.8558, device='mps:0')"
-resnet_dora,validation data,4,"tensor(0.8656, device='mps:0')"
-resnet_dora,validation data,5,"tensor(0.8733, device='mps:0')"
-resnet_dora,validation data,6,"tensor(0.8704, device='mps:0')"
-resnet_dora,validation data,7,"tensor(0.8810, device='mps:0')"
-resnet_dora,validation data,8,"tensor(0.8896, device='mps:0')"
-resnet_dora,validation data,9,"tensor(0.8813, device='mps:0')"
-resnet_dora,validation data,10,"tensor(0.8925, device='mps:0')"
-resnet_dora,validation data,11,"tensor(0.8910, device='mps:0')"
-resnet_dora,validation data,12,"tensor(0.8933, device='mps:0')"
-resnet_dora,validation data,13,"tensor(0.8947, device='mps:0')"
-resnet_dora,validation data,14,"tensor(0.8979, device='mps:0')"
+epoch,phase,loss,accuracy
+0,train,2.2809,0.4585
+0,val,0.4825,0.881
+1,val,1.4941,0.6896
+1,train,0.4808,0.8818
+2,train,1.195,0.7527
+2,val,0.4526,0.8896
+3,val,0.9714,0.7939
+3,train,0.4568,0.8884
+4,train,0.8656,0.8152
+4,val,0.4508,0.8813
+5,val,0.7663,0.8306
+5,train,0.4471,0.8859
+6,train,0.7194,0.8412
+6,val,0.4217,0.8925
+7,val,0.6526,0.8558
+7,train,0.432,0.8869
+8,val,0.4147,0.891
+8,train,0.6393,0.8549
+9,val,0.5862,0.8656
+9,train,0.416,0.8908
+10,val,0.3999,0.8933
+10,train,0.5785,0.8634
+11,train,0.4083,0.892
+11,val,0.5416,0.8733
+12,val,0.3953,0.8947
+12,train,0.5425,0.8698
+13,train,0.398,0.8941
+13,val,0.5175,0.8704
+14,train,0.507,0.8755
+14,val,0.376,0.8979

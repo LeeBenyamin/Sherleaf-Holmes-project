@@ -1,15 +1,31 @@
-resnet,validation data,0,0.8248779773712158
-resnet,validation data,1,0.843568742275238
-resnet,validation data,2,0.8549857139587402
-resnet,validation data,3,0.8571954965591431
-resnet,validation data,4,0.8607863187789917
-resnet,validation data,5,0.8675075769424438
-resnet,validation data,6,0.8620753288269043
-resnet,validation data,7,0.8645612597465515
-resnet,validation data,8,0.8672313690185547
-resnet,validation data,9,0.8680600523948669
-resnet,validation data,10,0.8745971918106079
-resnet,validation data,11,0.8693490624427795
-resnet,validation data,12,0.8652978539466858
-resnet,validation data,13,0.8664027452468872
-resnet,validation data,14,0.8525918126106262
+epoch,phase,loss,accuracy
+0,train,1.289,0.643
+0,val,0.4635,0.8646
+1,val,0.6045,0.8249
+1,train,0.7919,0.7663
+2,train,0.9397,0.7275
+2,val,0.4484,0.8672
+3,val,0.5324,0.8436
+3,train,0.7967,0.7672
+4,train,0.8789,0.7455
+4,val,0.4444,0.8681
+5,val,0.4939,0.855
+5,train,0.7877,0.7706
+6,train,0.8503,0.7529
+6,val,0.4174,0.8746
+7,val,0.4869,0.8572
+7,train,0.8056,0.7653
+8,val,0.459,0.8693
+8,train,0.8351,0.7582
+9,val,0.4596,0.8608
+9,train,0.7975,0.7682
+10,val,0.4549,0.8653
+10,train,0.8224,0.7584
+11,train,0.7841,0.7707
+11,val,0.4459,0.8675
+12,val,0.4682,0.8664
+12,train,0.8222,0.7612
+13,train,0.785,0.771
+13,val,0.4616,0.8621
+14,train,0.8015,0.7657
+14,val,0.4914,0.8526

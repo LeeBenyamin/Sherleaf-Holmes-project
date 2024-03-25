@@ -1,15 +1,31 @@
-alex_net_fine-tuning_with_lora,validation data,0,"tensor(0.8003, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,1,"tensor(0.8292, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,2,"tensor(0.8389, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,3,"tensor(0.8575, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,4,"tensor(0.8455, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,5,"tensor(0.8595, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,6,"tensor(0.8631, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,7,"tensor(0.8759, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,8,"tensor(0.8633, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,9,"tensor(0.8742, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,10,"tensor(0.8769, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,11,"tensor(0.8805, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,12,"tensor(0.8747, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,13,"tensor(0.8831, device='mps:0')"
-alex_net_fine-tuning_with_lora,validation data,14,"tensor(0.8801, device='mps:0')"
+epoch,phase,loss,accuracy
+0,train,1.1679,0.676
+0,val,0.4218,0.8759
+1,val,0.6786,0.8003
+1,train,0.6053,0.8154
+2,train,0.7916,0.7677
+2,val,0.4469,0.8633
+3,val,0.5804,0.8292
+3,train,0.5957,0.8192
+4,train,0.7236,0.7845
+4,val,0.4233,0.8742
+5,val,0.5331,0.8389
+5,train,0.5861,0.8205
+6,train,0.6914,0.7932
+6,val,0.4105,0.8769
+7,val,0.4678,0.8575
+7,train,0.5738,0.8265
+8,val,0.3938,0.8805
+8,train,0.6525,0.8027
+9,val,0.4894,0.8455
+9,train,0.562,0.8297
+10,val,0.4124,0.8747
+10,train,0.6425,0.8074
+11,train,0.5619,0.8273
+11,val,0.4635,0.8595
+12,val,0.4019,0.8831
+12,train,0.6274,0.8127
+13,train,0.5625,0.8286
+13,val,0.4555,0.8631
+14,train,0.612,0.8133
+14,val,0.3983,0.8801

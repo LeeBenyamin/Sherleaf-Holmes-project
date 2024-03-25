@@ -1,15 +1,31 @@
-vgg_lora,validation data,0,"tensor(0.7506, device='mps:0')"
-vgg_lora,validation data,1,"tensor(0.7837, device='mps:0')"
-vgg_lora,validation data,2,"tensor(0.7905, device='mps:0')"
-vgg_lora,validation data,3,"tensor(0.8054, device='mps:0')"
-vgg_lora,validation data,4,"tensor(0.8078, device='mps:0')"
-vgg_lora,validation data,5,"tensor(0.8124, device='mps:0')"
-vgg_lora,validation data,6,"tensor(0.8135, device='mps:0')"
-vgg_lora,validation data,7,"tensor(0.8197, device='mps:0')"
-vgg_lora,validation data,8,"tensor(0.8183, device='mps:0')"
-vgg_lora,validation data,9,"tensor(0.8313, device='mps:0')"
-vgg_lora,validation data,10,"tensor(0.8218, device='mps:0')"
-vgg_lora,validation data,11,"tensor(0.8287, device='mps:0')"
-vgg_lora,validation data,12,"tensor(0.8343, device='mps:0')"
-vgg_lora,validation data,13,"tensor(0.8333, device='mps:0')"
-vgg_lora,validation data,14,"tensor(0.8322, device='mps:0')"
+epoch,phase,loss,accuracy
+0,train,1.6715,0.5533
+0,val,0.6499,0.8197
+1,val,0.9461,0.7506
+1,train,0.8586,0.744
+2,train,1.1213,0.6813
+2,val,0.6359,0.8183
+3,val,0.803,0.7837
+3,train,0.8341,0.7506
+4,train,1.012,0.7093
+4,val,0.6233,0.8313
+5,val,0.7483,0.7905
+5,train,0.8267,0.7527
+6,train,0.9606,0.7225
+6,val,0.6169,0.8218
+7,val,0.6827,0.8054
+7,train,0.822,0.7525
+8,val,0.6065,0.8287
+8,train,0.9139,0.7309
+9,val,0.6815,0.8078
+9,train,0.8157,0.7558
+10,val,0.5919,0.8343
+10,train,0.894,0.7345
+11,train,0.8111,0.7577
+11,val,0.6633,0.8124
+12,val,0.5913,0.8333
+12,train,0.8706,0.7411
+13,train,0.7979,0.7584
+13,val,0.6633,0.8135
+14,train,0.8635,0.7435
+14,val,0.5914,0.8322
