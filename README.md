@@ -3,6 +3,10 @@
 
 **Table of Contents**
 
+[TOCM]
+
+[TOC]
+
 ## Background
 ## Plant Village dataset
 ## Files in this repository
