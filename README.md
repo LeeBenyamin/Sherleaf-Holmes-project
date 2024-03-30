@@ -3,6 +3,12 @@
 
 **Table of Contents**
   * [Background](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/tree/main#background)
+  * [plant village dataset](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#plant-village-dataset)
+  * [Files in this repository](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#files-in-this-repository)
+  * [Prerequisites](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#prerequisites)
+  * [How to run](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#how-to-run)
+  * [Results](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#results)
+  * [References](https://github.com/LeeBenyamin/Sherleaf-Holmes-project/blob/main/README.md#references)
 
 
 # background
@@ -16,33 +22,41 @@ example image:
 
 ![](images/plant1.png)  ![](images/plant2.png)
 
+
 # Files in this repository
+
 File Name   | Purpose
 ------------- | -------------
 PlantDiseaseCnn.ipynb  | this file contains our custom CNN architecture, exploring the abilities and try different strategies in order to get the maximum accuracy. Utilizing Optuna and random search for hyperparameter optimization.
 TransferLearningPartA.ipynb  | This notebook uses transfer learning to train existing models (AlexNet, VGG, ResNet, DenseNet). Its divided into two parts: Feature Extraction: Modifies only the last FC layer of each model for training. Fine-Tuning: Trains all layers of the model, starting from pretrained weights, focusing on AlexNet.
 TransferLearningPartB.ipynb  | In this Python notebook, we applied transfer learning techniques using LoRA and DoRA. Each model underwent training and evaluation at every epoch using the validation set. Finally, we conducted a final assessment on the test set for each technique. You can find the accuracy and loss results of VGG16, AlexNet, ResNet, and DenseNet in this notebook.
 PlantDiseaseVit.ipynb | This document outlines the preprocessing steps for our dataset tailored for the ViT architecture, along with the architecture itself. Additionally, it presents the outcomes of applying this architecture to both clean and noisy datasets.
-utils/CNN_plot_utils.py
-utils/ViT_utils.py
+utils/CNN_plot_utils.py | contains useful functions to export results to .csv file and plot results from .csv files
+utils/ViT_utils.py | contains useful functions for pre processing input image to VIT architecture (used only for explanations)
 utils/project_results.py | This Python file contains functions to generate plots from CSV results. It accepts CSV files containing accuracy and training time data and plots the corresponding graphs.
+
 
 # Prerequisites
  
 | Library  | Version |
 | ------------- | ------------- |
-| python |   3.10.0 |
-| pyTorch | |
-| pandas |  |
-| torchvision|  |
-| numpy |  |
-| tqdm  |   |
+| python |  3.8.18 |
+| pyTorch | 2.1.2 |
+| pandas | 2.0.3|
+| torchvision| 0.16.2  |
+| numpy | 1.24.3 |
+| tqdm  | 4.65.0 |
+| matplotlib | 3.7.2 | 
+| image (PIL) | 10.0.1 |
+
 
 # How to run
+
 Running Locally
 Press "Download ZIP" under the green button Clone or download or use git to clone the repository using the following command: git clone https://github.com/LeeBenyamin/Sherleaf-Holmes-project.git (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda).
+
 
 # Results
 
@@ -59,6 +73,7 @@ In this slide, we present the results obtained from our experiments, showcasing 
 ![](transfer_learning_results/graphs/all_net_plot.png) 
 
 vison transformers results:
+
 
 # References
 
