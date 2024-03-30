@@ -106,9 +106,13 @@ In this slide, we present the results obtained from our experiments, showcasing 
 # References
 
 "An Image is Worth 16x16 Words" paper:https://arxiv.org/abs/2010.11929
+
 vision transformer architecture explanation: https://www.youtube.com/watch?v=qU7wO02urYU
+
 LoRA paper: https://arxiv.org/abs/2106.09685
+
 DoRA paper: https://arxiv.org/abs/2402.09353
+
 icons made by https://www.flaticon.com/
 
 
