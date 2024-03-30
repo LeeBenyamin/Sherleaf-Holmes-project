@@ -67,11 +67,13 @@ In the following graph, you can observe the test accuracy achieved using Optuna 
 
 **transfer learning results:**
 
-In this slide, we present the results obtained from our experiments, showcasing both graphical and tabular representations. The graph illustrates the relationship between accuracy test scores and training time for each model. Notably, the fine-tuned versions of AlexNet and ResNet demonstrate the highest accuracy among all models.
+The graph illustrates the relationship between accuracy test scores and training time for each model. Notably, the fine-tuned versions of AlexNet and ResNet demonstrate the highest accuracy among all models.
 
 ![](transfer_learning_results/graphs/all_net_plot.png) 
 
 **vison transformers results:**
+
+![](results/ViT_test_acc_with_points.png) 
 
 **tables results:**
 
