@@ -82,11 +82,11 @@ def plot_from_csv(csv_dir, save_dir, value):
             plt.close()  # Close the plot to release memory
 
 # Example usage:
-csv_directory = r"C:\Users\lbenyami\Downloads\results"
-save_directory = r"C:\Users\lbenyami\Downloads\graphs"
+csv_directory = r"transfer learning results/csv"
+save_directory = r"transfer learning results/graphs"
 plot_from_csv(csv_directory, save_directory, 'loss')
 
 # Example usage:
-file_path = r'C:\Users\97250\deep_project\transfer learning\csv results\all nets test and valid results.csv'
-save_path = r'C:\Users\97250\deep_project\transfer learning\graphs'
+file_path = r"transfer learning results/csv"
+save_path = r"transfer learning results/graphs"
 plot_results(file_path, save_path)
