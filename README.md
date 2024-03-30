@@ -73,7 +73,7 @@ The graph illustrates the relationship between accuracy test scores and training
 
 **vison transformers results:**
 
-![](results/ViT_test_acc_with_points.png) 
+![](results/ViT_test_acc_with_noise.png) 
 
 **tables results:**
 
