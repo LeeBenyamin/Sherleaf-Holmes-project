@@ -8,5 +8,7 @@ We conducted extensive research on various architectures to optimize our results
 # Plant Village dataset
 We utilized a dataset comprising 38 classes encompassing both diseased and healthy plants. This dataset was sourced from the following link: [PlantVillage](//https://paperswithcode.com/dataset/plantvillage "PlantVillage").
 example image: 
+
 ![](images/plant1.png)
+
 ![](images/plant2.png)
