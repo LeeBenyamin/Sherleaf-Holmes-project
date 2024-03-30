@@ -60,19 +60,47 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda).
 
 # Results
 
-our cnn results:
+**our cnn results:**
 
-Optuna VS Random search: 
-
+In the following graph, you can observe the test accuracy achieved using Optuna and Random Search.
 ![](results/optuna_VS_random_search.png) 
 
-transfer learning results:
+**transfer learning results:**
 
 In this slide, we present the results obtained from our experiments, showcasing both graphical and tabular representations. The graph illustrates the relationship between accuracy test scores and training time for each model. Notably, the fine-tuned versions of AlexNet and ResNet demonstrate the highest accuracy among all models.
 
 ![](transfer_learning_results/graphs/all_net_plot.png) 
 
-vison transformers results:
+**vison transformers results:**
+
+****tables results:**
+
+| Architecture   | test accuracy 
+| ------------- | ------------- |
+| Our CNN (Optuna model)| 98.4% 
+|ALexNet with feture extract | 84.8% |
+|AlexNet with fine tuning | 96.8% |
+|ALexNet with DoRA | 87.5% |
+|AlexNet with LoRA| 87.9%|
+|ResNet with feture extract |86.9% |
+|ResNet with fine tuning | 98% |
+|ResNet with DoRA | 89.8% |
+|ResNet with LoRA|89.4%|
+|DenseNet with feture extract |88.5%|
+|DenseNet with DoRA |92.5%|
+|DenseNet with LoRA|91.3%|
+|VGG with feture extract |84.7%
+|VGG with DoRA |84.6%
+|VGG with LoRA| 83.3%
+|ViT feature extract |98.6%|
+
+
+| VGG   | trained with noise | test accuracy with std noise = 0 | test accuracy with std noise = 0.05 | test accuracy with std noise = 0.07 | test accuracy with std noise = 0.09
+| ------------- | ------------- |
+| Our CNN |  No | 98.4% |
+| Our CNN |  yes | 
+|AlexNet with fine tuning | yes | 96.7% | 97.02% |97.08 % | 96.97%
+|ViT | no | 98.6% |
 
 
 # References
