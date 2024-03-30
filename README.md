@@ -3,13 +3,13 @@
 
 **Table of Contents**
 
-##Background
-##Plant Village dataset
-##Files in this repository
-##Prerequisites
+## Background
+## Plant Village dataset
+## Files in this repository
+## Prerequisites
 ## How to run
-##Results
-##References
+## Results
+## References
 
 # background
 
