@@ -97,11 +97,12 @@ In this slide, we present the results obtained from our experiments, showcasing 
 
 | VGG   | trained with noise | test accuracy with std noise = 0 | test accuracy with std noise = 0.05 | test accuracy with std noise = 0.07 | test accuracy with std noise = 0.09 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Our CNN |  No | 98.4% |
-| Our CNN |  yes | 
+| Our CNN |  No | 98.4% | 8.2% | 3.7% | 2.6%
+| Our CNN |  yes | 92.23% | 97.4% | 90% | 60.8%
 |AlexNet with fine tuning | yes | 96.7% | 97.02% |97.08 % | 96.97%
-|ViT | no | 98.6% |
+|ViT | no | 98.6% | 95.12% | 92.4% | 88.17% 
 
 
 # References
+
 
