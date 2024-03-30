@@ -1,5 +1,16 @@
 ![](icons/resized/project%20logo.png)
 
+
+**Table of Contents**
+
+# Background
+# Plant Village dataset
+# Files in this repository
+# Prerequisites
+# How to run
+# Results
+# References
+
 # background
 
 Project goal: Detection of plant species and diseases from images.
@@ -54,3 +65,6 @@ In this slide, we present the results obtained from our experiments, showcasing 
 ![](transfer_learning_results/graphs/all_net_plot.png) 
 
 vison transformers results:
+
+# References
+
