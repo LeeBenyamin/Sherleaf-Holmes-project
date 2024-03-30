@@ -73,7 +73,7 @@ In this slide, we present the results obtained from our experiments, showcasing 
 
 **vison transformers results:**
 
-****tables results:**
+**tables results:**
 
 | Architecture   | test accuracy 
 | ------------- | ------------- |
@@ -95,8 +95,8 @@ In this slide, we present the results obtained from our experiments, showcasing 
 |ViT feature extract |98.6%|
 
 
-| VGG   | trained with noise | test accuracy with std noise = 0 | test accuracy with std noise = 0.05 | test accuracy with std noise = 0.07 | test accuracy with std noise = 0.09
-| ------------- | ------------- |
+| VGG   | trained with noise | test accuracy with std noise = 0 | test accuracy with std noise = 0.05 | test accuracy with std noise = 0.07 | test accuracy with std noise = 0.09 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Our CNN |  No | 98.4% |
 | Our CNN |  yes | 
 |AlexNet with fine tuning | yes | 96.7% | 97.02% |97.08 % | 96.97%
