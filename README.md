@@ -47,7 +47,7 @@ Optuna VS Random search:
 
 transfer learning results:
 In this slide, we present the results obtained from our experiments, showcasing both graphical and tabular representations. The graph illustrates the relationship between accuracy test scores and training time for each model. Notably, the fine-tuned versions of AlexNet and ResNet demonstrate the highest accuracy among all models.
-![](transfer learning results/graphs/all_net_plot.png) 
+![](transfer_learning_results/graphs/all_net_plot.png) 
 
 vison transformers results:
 
