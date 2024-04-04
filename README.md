@@ -56,7 +56,7 @@ Running Locally
 Press "Download ZIP" under the green button Clone or download or use git to clone the repository using the following command: git clone https://github.com/LeeBenyamin/Sherleaf-Holmes-project.git (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda).
-
+Note - Every variable named "local*" is a local path in the machine. Please make sure to update the path so it will match to your desired path on your machine. 
 
 # Results
 
