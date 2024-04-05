@@ -56,7 +56,11 @@ Running Locally
 Press "Download ZIP" under the green button Clone or download or use git to clone the repository using the following command: git clone https://github.com/LeeBenyamin/Sherleaf-Holmes-project.git (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda).
-Note - Every variable named "local*" is a local path in the machine. Please make sure to update the path so it will match to your desired path on your machine. 
+Notes:
+1. Every variable named "local*" is a local path in the machine. Please make sure to update the path so it will match      to your desired path on your machine.
+2. If you are planning to use (load) one of our transfer learning models, due to large size we attach a few links to       download these models from our drive:
+   - ViT model - https://drive.google.com/file/d/1ItpGNj26819r5OcIZlj5NmGzm8Z-OhZM/view?usp=sharing
+   - TODO: add more
 
 # Results
 
