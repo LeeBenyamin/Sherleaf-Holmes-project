@@ -60,7 +60,20 @@ Notes:
 1. Every variable named "local*" is a local path in the machine. Please make sure to update the path so it will match      to your desired path on your machine.
 2. If you are planning to use (load) one of our transfer learning models, due to large size we attach a few links to       download these models from our drive:
    - ViT model - https://drive.google.com/file/d/1ItpGNj26819r5OcIZlj5NmGzm8Z-OhZM/view?usp=sharing
-   - TODO: add more
+   - VGG feature extract - https://drive.google.com/file/d/1GNAxZfA_gxzQUY6qCt4QslBzio8lZhPb/view
+   - VGG DoRA - https://drive.google.com/file/d/1kXopEeiHgmqEamhHYg9bIjbJ7QT-eVKU/view
+   - VGG LoRA - https://drive.google.com/file/d/1uPnSM4SYSvQkzYWadDlW6nKN_KwS231v/view
+   - AlexNet feature extract - https://drive.google.com/file/d/1xy6bmQIGIcqThpWSQeQCasT57reCXfxY/view
+   - AlexNet fine-tuning - https://drive.google.com/file/d/1ryd6MQXx5iDCUMK8mdFMJtpOEllZd1VP/view
+   - AlexNet DoRA - https://drive.google.com/file/d/13uOFWHGgLFAbml7VBl6xevnQszf75Cot/view
+   - AlexNet LoRA - https://drive.google.com/file/d/1uPnSM4SYSvQkzYWadDlW6nKN_KwS231v/view
+   - DenseNet feature extract - https://drive.google.com/file/d/1yOkUElPrwqZbiG2erSsb8t9nU7Q4XiTF/view
+   - DenseNet DoRA - https://drive.google.com/file/d/1-PmXx5U9PK3NZYmImjRf94UyyIRi52vX/view
+   - DenseNet LoRA - https://drive.google.com/file/d/16iFAKxAuSIUUjlmalgi3AsrSusoBlqnB/view
+   - ResNet feature extract - https://drive.google.com/file/d/1j2n3Qx3JF-NyiEVsMYlkhp4qWWRFgXsQ/view
+   - ResNet fine-tuning - https://drive.google.com/file/d/12SfGD_TYtaBdQo_CuqJPrdUzNpQhDZyh/view
+   - ResNet DoRA - https://drive.google.com/file/d/1sYKoUvD5tpkEyAXBwS2DugvlFDvHe38Q/view
+   - ResNet LoRA - https://drive.google.com/file/d/1YLmFJOlRHI_FwGevCBarv0gaMvfZx5Y_/view
 
 # Results
 
